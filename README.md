@@ -118,7 +118,7 @@ preptrack/
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/arnishbaruah/ai-Interview-platform.git
+git clone https://github.com/nandini-kshatriya/ai-interview-platform.git
 cd ai-Interview-platform
 ```
 
@@ -159,7 +159,7 @@ pnpm run dev
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/arnishbaruah/ai-Interview-platform.git
+git clone https://github.com/nandini-kshatriya/ai-interview-platform.git
 cd ai-Interview-platform
 ```
 
