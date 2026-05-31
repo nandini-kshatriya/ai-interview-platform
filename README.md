@@ -4,6 +4,12 @@
 
 ---
 
+## About This Repository
+
+PrepTrack is an AI-powered interview platform designed to automate the creation, scheduling and execution of technical interviews. The platform leverages AI-driven voice interactions, automated question generation and real-time feedback analysis to streamline the recruitment process for both recruiters and candidates.
+
+---
+
 ## 🚀 Tech Stack
 
 - **Next.js 15** (App Router) — Server-side rendering, dynamic routes, API routes
